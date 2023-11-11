@@ -1,0 +1,16 @@
+1.Inicio
+2.Declarar num1, num2, resultado como números reales
+3.Declarar respuesta como número real
+4.Escribir "Ingresa el primer número"
+5.Leer num1
+6.Escribir "Ingresa el segundo número"
+7.Leer num2
+8.resultado = num1 * num2
+9.Escribir "¿Cuál es el resultado de la multiplicación?"
+10.Leer respuesta
+11.Si respuesta es igual a resultado
+12.Escribir "Correcto"
+13.Sino
+14.Escribir "Incorrecto"
+15.FinSi
+16.Fin
